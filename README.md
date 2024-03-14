@@ -1,5 +1,9 @@
-# Calculate coverage of assembled genome
-assembly statistics for Microbiology Resource Announcements publications
+# Calculate coverage (sequencing depth) of assembled genome
+usually a statistical parameter in Microbiology Resource Announcements publications
+
+## General formula
+
+Coverage (sequencing depth) = Total bases Sequenced / Size of assembled or reference genome
 
 ```
 options:
