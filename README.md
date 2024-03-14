@@ -1,15 +1,15 @@
-Calculate coverage of assembled genome.
+Calculate coverage of assembled genome. \n
 
-options:
-  -h, --help            show this help message and exit
-  -r REF_SIZE, --ref_size REF_SIZE
-                        Size of the assembly
-  --illumina_dir ILLUMINA_DIR
-                        Directory containing Illumina reads in FASTQ.gz format
-  --nanopore_dir NANOPORE_DIR
-                        Directory containing ONT reads in FASTQ.gz format
-  --platform {illumina,nanopore,hybrid}
-                        Sequencing platform
+options: \n
+  -h, --help            show this help message and exit \n
+  -r REF_SIZE, --ref_size REF_SIZE \n 
+                        Size of the assembly \n
+  --illumina_dir ILLUMINA_DIR \n
+                        Directory containing Illumina reads in FASTQ.gz format \n
+  --nanopore_dir NANOPORE_DIR \n
+                        Directory containing ONT reads in FASTQ.gz format \n
+  --platform {illumina,nanopore,hybrid} \n 
+                        Sequencing platform \n
                         
 example usage:                      
 HYBRID
