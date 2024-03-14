@@ -1,4 +1,6 @@
-# Calculate coverage of assembled genome. 
+# Calculate coverage of assembled genome
+assembly statistics for Microbiology Resource Announcements publications
+
 ```
 options:
   -h, --help            show this help message and exit
